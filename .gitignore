@@ -10,6 +10,9 @@ db.sqlite3-journal
 media/photo
 media/file
 uwsgi_params
+aweb.sock=
+aweb_uwsgi.ini
+index.html
 
 ### Project ###
 migrations
