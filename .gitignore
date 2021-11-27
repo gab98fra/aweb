@@ -9,6 +9,7 @@ db.sqlite3
 db.sqlite3-journal
 media/photo
 media/file
+uwsgi_params
 
 ### Project ###
 migrations
